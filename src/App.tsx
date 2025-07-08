@@ -12,7 +12,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <Router>
-      <div className="min-h-screen bg-gradient-to-br from-amber-50 to-orange-50">
+      <div className="min-h-screen bg-dark-gradient matrix-bg">
         <Navigation />
         <main className="pt-16">
           <Routes>
